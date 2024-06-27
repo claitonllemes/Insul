@@ -1,4 +1,4 @@
-<img src="https://github.com/claitonllemes/Insul/assets/99222756/47b21ec0-b3aa-43c3-b530-dbbff347e826" width="100%">
+<img src="https://github.com/claitonllemes/Insul/assets/99222756/56f786e2-4be6-4cbd-8ddd-2f9b07f6e458" width="100%">
 
 
 
