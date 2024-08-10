@@ -17,11 +17,13 @@ body:
   attributes:
     label: Which operating systems have you used?
     description: You may select more than one.
-    required: true
     options:
       - label: macOS
       - label: Windows
       - label: Linux
+  validations:
+    required: true
+
 
 
 
