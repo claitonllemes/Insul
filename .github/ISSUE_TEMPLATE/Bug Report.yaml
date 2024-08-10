@@ -20,7 +20,6 @@ body:
     options:
     required: true
       - label: macOS
-      required: true
       - label: Windows
       - label: Linux
 - type: textarea
