@@ -16,13 +16,11 @@ body:
   id: operating-systems
   attributes:
     label: Which operating systems have you used?
+    required: true
     description: You may select more than one.
     options:
-
       - label: macOS
-        required: true
       - label: Windows
-        required: true
       - label: Linux
 - type: textarea
   attributes:
