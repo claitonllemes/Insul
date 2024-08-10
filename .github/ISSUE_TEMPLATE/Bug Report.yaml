@@ -16,7 +16,8 @@ body:
   id: operating-systems
   attributes:
     label: Which operating systems have you used?
-      required: true
+      validations:
+        required: true
     description: You may select more than one.
     options:
       - label: macOS
