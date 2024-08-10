@@ -1,6 +1,6 @@
 ---
-name: 'Overview '
-about: 'Resumo do projeto '
+name: 'Landing Page - Overview '
+about: Resumo do projeto para criação de Landing Pages
 title: Overview
 labels: Obrigatório
 assignees: claitonllemes
