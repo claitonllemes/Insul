@@ -12,7 +12,7 @@ assignees: octocat
 labels: ["Obrigatório"]
 
 body:
-body:
+
 - type: textarea
   id: repro
   attributes:
@@ -27,7 +27,7 @@ body:
   validations:
     required: true
 
-body:
+
 - type: input
   id: prevalence
   attributes:
