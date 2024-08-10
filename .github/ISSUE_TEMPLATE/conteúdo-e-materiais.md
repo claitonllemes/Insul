@@ -1,7 +1,7 @@
 ---
 name: Conteúdo e Materiais
 about: Conteúdo e materiais necessários para o projeto
-title: ''
+title: Conteúdo e Materiais
 labels: Obrigatório
 assignees: claitonllemes
 
