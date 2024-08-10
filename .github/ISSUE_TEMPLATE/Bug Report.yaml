@@ -39,8 +39,10 @@ body:
     value: "## Thank you for contributing to our project!"
 - type: markdown
   attributes:
-    value: |
+    placeholder: |
       Thanks for taking the time to fill out this bug report.
+
+      
 
 
 
