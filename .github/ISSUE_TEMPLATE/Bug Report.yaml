@@ -6,7 +6,7 @@ description: File a bug report.
 title: "TITULO AQUI"
 
 # As pessoas que serão automaticamente atribuídas a problemas criados com este modelo.
-assignees: - claitonllemes
+assignees:
 
 # Etiquetas que serão adicionadas automaticamente a problemas criados com este modelo.
 labels: ["Obrigatório"]
