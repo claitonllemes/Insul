@@ -21,7 +21,8 @@ body:
       - label: macOS
       - label: Windows
       - label: Linux
-    validations: required: true
+    validations: 
+    required: true
     
 - type: input
   id: prevalence
